@@ -1,0 +1,748 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 13px;
+}
+
+
+
+.secnavbar{
+    display: flex;
+    background-color:  rgb(0, 69, 129) ;
+    align-items: center;
+    justify-content:space-between ;
+    color: white;
+    padding: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: medium; 
+    font-weight:300;
+    position: relative; 
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;  
+ }
+
+ .secnavbar h1{
+    font-size: larger;
+ }
+
+.secnavlist{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.secnavlist i:hover{
+    color: rgb(130, 168, 4);
+}
+.secnavlist i{
+    margin-top: 6px;
+}
+.secnavlist a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.secnavlist a:hover{
+    color: rgb(130, 168, 4) ;
+}
+
+
+/* formals page*/
+    
+    
+    .head h1{
+        color: aliceblue;
+        font-weight: 300;
+    }
+    
+    .formals{
+        display:block;
+        align-items:center;
+        padding: 20px;
+        background-color:white;   
+    }
+    .div-1 h1{
+       
+        margin-top: 10px;
+        color:  rgb(0, 69, 129);
+    }
+    .div-2 h1{
+       
+        margin-top: 10px;
+        color:  rgb(0, 69, 129);
+    }
+    
+    .formals img{
+        margin-top: 10px;
+        border-radius: 20px;
+        transition: 0.5s;
+
+        box-shadow: 10px 5px 30px 3px rgb(78, 78, 78);
+    }
+    
+    .formals img:hover{
+        transform: scale(1.3);
+        z-index:2;
+    }
+    
+    
+    .div-1{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    
+    .div-2{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 30px;
+        margin-right: 30px;
+        border-radius: 50px;
+    }
+    
+    /* formals page end*/
+    /* casual page*/
+    
+    .head-2{
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        background-color: blue;
+   
+        
+        }
+        .casuals{
+            display:block;
+            align-items:center;
+            padding: 20px;
+            background-color:white;   
+        }
+        .div-3 h1{
+           
+            margin-top: 10px;
+            color:  rgb(0, 69, 129);
+        }
+        .div-4 h1{
+           
+            margin-top: 10px;
+            color:  rgb(0, 69, 129);
+        }
+        
+        .casuals img{
+            margin-top: 10px;
+            border-radius: 20px;
+            transition: 0.5s;
+            box-shadow: 10px 5px 30px 3px rgb(78, 78, 78);
+        }
+        
+        .casuals img:hover{
+            transform: scale(1.3);
+            z-index:2;
+        }
+        
+        
+        .div-3{
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            margin-left: 30px;*{
+                padding: 0%;
+                margin: 0%;
+            }
+            body{
+                font-family: "Poppins", sans-serif;
+                font-weight: 100;
+                font-style: normal;
+                font-size: 13px;
+            }
+            
+            
+            
+            .secnavbar{
+                display: flex;
+                background-color:  rgb(0, 69, 129) ;
+                align-items: center;
+                justify-content:space-between ;
+                color: white;
+                padding: 20px;
+                padding-left: 10px;
+                padding-top: 20px;
+                padding-bottom: 20px;
+                font-size: medium; 
+                font-weight:300;
+                position: relative; 
+                box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px; 
+             }
+            
+             .secnavbar h1{
+                font-size: larger;
+             }
+            
+            .secnavlist{
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+               
+            }
+            .secnavlist i:hover{
+                color: rgb(130, 168, 4);
+            }
+            .secnavlist i{
+                margin-top: 6px;
+            }
+            .secnavlist a{
+                color: white;
+                text-decoration: none;
+                padding: 10px;
+            }
+            
+            .secnavlist a:hover{
+                color: rgb(130, 168, 4) ;
+            }
+            
+            
+            /* formals page*/
+            
+                
+                .head h1{
+                    color: aliceblue;
+                    font-weight: 300;
+                }
+                
+                .formals{
+                    display:block;
+                    align-items:center;
+                    padding: 20px;
+                    background-color:white;   
+                }
+                .div-1 h1{
+                   
+                    margin-top: 10px;
+                    color:  rgb(0, 69, 129);
+                }
+                .div-2 h1{
+                   
+                    margin-top: 10px;
+                    color:  rgb(0, 69, 129);
+                }
+                
+                .formals img{
+                    margin-top: 10px;
+                    border-radius: 20px;
+                    transition: 0.5s;
+            
+                    box-shadow: 10px 5px 30px 3px rgb(78, 78, 78);
+                }
+                
+                .formals img:hover{
+                    transform: scale(1.3);
+                    z-index:2;
+                }
+                
+                
+                .div-1{
+                    display: flex;
+                    justify-content: space-between;
+                    margin-top: 20px;
+                    margin-bottom: 20px;
+                    margin-left: 30px;
+                    margin-right: 30px;
+                }
+                
+                .div-2{
+                    display: flex;
+                    justify-content: space-between;
+                    margin-top: 20px;
+                    margin-bottom: 20px;
+                    margin-left: 30px;
+                    margin-right: 30px;
+                    border-radius: 50px;
+                }
+                
+                /* formals page end*/
+                /* casual page*/
+                
+                .head-2{
+                    align-items: center;
+                    justify-content: center;
+                    display: flex;
+                    background-color: blue;
+                   
+                    
+                    }
+                    .casuals{
+                        display:block;
+                        align-items:center;
+                        padding: 20px;
+                        background-color:white;   
+                    }
+                    .div-3 h1{
+                       
+                        margin-top: 10px;
+                        color:  rgb(0, 69, 129);
+                    }
+                    .div-4 h1{
+                       
+                        margin-top: 10px;
+                        color:  rgb(0, 69, 129);
+                    }
+                    
+                    .casuals img{
+                        margin-top: 10px;
+                        border-radius: 20px;
+                        transition: 0.5s;
+                        box-shadow: 10px 5px 30px 3px rgb(78, 78, 78);
+                    }
+                    
+                    .casuals img:hover{
+                        transform: scale(1.3);
+                        z-index:2;
+                    }
+                    
+                    
+                    .div-3{
+                        display: flex;
+                        justify-content: space-between;
+                        margin-top: 20px;
+                        margin-bottom: 20px;
+                        margin-left: 30px;
+                        margin-right: 30px;
+                    }
+                    
+                    .div-4{
+                        display: flex;
+                        justify-content: space-between;
+                        margin-top: 20px;
+                        margin-bottom: 20px;
+                        margin-left: 30px;
+                        margin-right: 30px;
+                    }
+                /* casual page end*/
+            
+                .price{
+                    display: flex;
+                    margin-left: 35%;
+                    color:  rgb(130, 168, 4);
+                    margin-top: -25px;
+                }
+                .price h2{
+                    margin-top: 2px;
+                }
+                
+                h2 s{
+                    color:rgb(187, 187, 187);
+                    margin-left: 20px;
+                }
+                .div-text{
+                    margin-top: 10px;
+                    margin-left: 15px;
+                }
+                .Brand{
+                    margin-top: 5px;
+                    margin-left: 15px;
+                    display: flex;
+                    align-items: center;
+                }
+                .Brand-name{
+                    font-size: small;
+                    margin-top: -22px;
+                    margin-left: 70px;
+                    color: rgb(130, 168, 4);
+            
+                }
+            
+                /* Phants page start*/ 
+                    .mens-phants{
+                        display:block;
+                        align-items:center;
+                        padding: 20px;
+                        background-color:white;   
+                    }
+                    .div-5 h1{
+                       
+                        margin-top: 10px;
+                        color:  rgb(0, 69, 129);
+                    }
+                    .div-6 h1{
+                       
+                        margin-top: 10px;
+                        color:  rgb(0, 69, 129);
+                    }
+                    
+                    .mens-phants img{
+                        margin-top: 10px;
+                        border-radius: 20px;
+                        transition: 0.5s;
+                        align-items: center;
+                        justify-content: space-between;
+                        box-shadow:10px 5px 30px 3px rgb(78, 78, 78);
+                    }
+                    
+                    .mens-phants img:hover{
+                        transform: scale(1.3);
+                        z-index:2;
+                    }
+                    
+                    
+                    .div-5{
+                        display: flex;
+                        justify-content: space-between;
+                        margin-top: 20px;
+                        margin-bottom: 20px;
+                        margin-left: 30px;
+                        margin-right: 30px;
+                    }
+                    
+                    .div-6{
+                        display: flex;
+                        justify-content: space-between;
+                        margin-top: 20px;
+                        margin-bottom: 20px;
+                        margin-left: 30px;
+                        margin-right: 30px;
+                    }
+            
+                 /* Phants page end*/
+                
+            
+                 
+                 /* Media query */
+                 @media screen and (max-width:750px)
+                 {
+                    .secheader{
+                        display:block;
+                        justify-content: center;
+                        align-items: center;
+                        padding-left: 25%;
+                       }
+                       .secheader h1{
+                        display:block;
+                        padding-left: 2%;
+                        margin-top: 20px;
+                       }
+                       .secheader h2{
+                        padding-left:3%;
+                        margin-bottom: 20px;
+                       }
+                       .formals{
+                        display:block;
+                        margin-left: 15%;
+                        margin-bottom: 20px;
+                       }
+                       .div-1{
+                        display: block;
+                       }
+                    .div-2{
+                        display:block;
+                    }
+                    .formals img{
+                        margin-top: 20px;
+                    }
+                
+                
+                       }  
+                       
+            margin-right: 30px;
+        }
+        
+        .div-4{
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            margin-left: 30px;
+            margin-right: 30px;
+        }
+
+        .img-1{
+            margin-left: -80px;
+        }
+    /* casual page end*/
+
+    .price{
+        display: flex;
+        margin-left: 35%;
+        color:  rgb(130, 168, 4);
+        margin-top: -30px;
+    }
+    .price-1{
+        display: flex;
+        margin-left: 35%;
+        color:  rgb(130, 168, 4);
+        margin-top: -28px;
+        margin-left: 80px;
+    }
+    .price h2{
+        margin-top: 2px;
+    }
+    
+    h2 s{
+        color:rgb(187, 187, 187);
+        margin-left: 20px;
+    }
+    .div-text{
+        margin-top: 10px;
+        margin-left: 15px;
+    }
+    .Brand{
+        margin-top: 5px;
+        margin-left: 15px;
+        display: flex;
+        align-items: center;
+    }
+    .Brand-name{
+        font-size: small;
+        margin-top: -28px;
+        margin-left: 70px;
+        color: rgb(130, 168, 4);
+
+    }
+
+    /* Fro intex child*/
+           
+    
+    
+    .intex-gir-navbar
+    {
+            display: flex;
+            background-color:  rgb(0, 69, 129) ;
+            align-items: center;
+            justify-content:space-between ;
+            color: white;
+            padding: 20px;
+            padding-left: 10px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            font-size: medium; 
+            position: relative; 
+            box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;  
+         }
+         
+         .intex-gir-navbar h1{
+            font-weight: 700;
+            font-size:20px;
+         }
+    
+
+    .intex-gir-navlist a:hover{
+        text-decoration: underline;
+        color: rgb(130, 168, 4);
+    }
+    
+    .intex-gir-navlist a{
+
+        font-weight: 300;
+        text-decoration: none;
+    }
+        
+    .intex-gir-navlist{
+        display: flex;
+        column-gap: 10px;
+        text-decoration:none;
+    }
+    .intex-gir-navlist a {
+        color: rgb(255, 255, 255);
+        text-decoration:none;
+    }
+    
+    .intex-gir-header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 20px;
+        margin-top: 10%;
+    }
+    
+    .intex-gir-header img{
+        border-radius: 30px;
+        cursor: pointer;
+        box-shadow: 10px 5px 30px 3px rgb(78, 78, 78) ;
+        transition: 0.5s;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .intex-gir-header h1{
+        margin-left: 40px;
+        color: rgb(0, 69, 129) ;
+        margin-top: 20px;
+     
+    } 
+    .intex-gir-header h2{
+        margin-left: 60px;
+        margin-top:-10px; 
+        color: rgb(130, 168, 4) ;
+       
+    } 
+    
+    .intex-gir-header img:hover {
+      transform: scale(1.3);
+      z-index:2;
+    }
+    .intex-gir-header button{
+
+    display: none;
+}
+/* kids-header section*/
+
+.kids-intex-headerlist{
+    display: flex;
+    
+    align-items: center;
+    margin-left: 250px;
+}
+.img-2{
+
+    margin-left: 250px;
+}
+
+      
+         
+    
+     /* Phants page end*/
+    
+/* for intex of men's coollection*/
+
+
+.intex-gir-navbar{
+    display: flex;
+    background-color:  rgb(0, 69, 129) ;
+    align-items: center;
+    justify-content:space-between ;
+    color: white;
+    padding: 20px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: medium; 
+    position: relative; 
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;  
+ }
+ 
+ .intex-gir-navbar h1{
+    font-weight: 700;
+    font-size:20px;
+ }
+
+
+.intex-gir-navlist a:hover{
+text-decoration: underline;
+color: rgb(130, 168, 4);
+}
+
+.intex-gir-navlist a{
+
+font-weight: 300;
+}
+
+.intex-gir-navlist{
+display: flex;
+column-gap: 10px;
+text-decoration:none;
+}
+.intex-gir-navlist a {
+color: rgb(255, 255, 255);
+text-decoration:none;
+}
+
+.intex-gir-header{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 20px;
+margin-top: 10%;
+}
+
+.intex-gir-header img{
+border-radius: 30px;
+cursor: pointer;
+box-shadow: 10px 5px 30px 3px rgb(78, 78, 78) ;
+transition: 0.5s;
+margin-left: 20px;
+margin-right: 20px;
+}
+.intex-gir-header h1{
+margin-left: 40px;
+color: rgb(0, 69, 129) ;
+margin-top: 20px;
+
+} 
+.intex-gir-header h2{
+margin-left: 60px;
+margin-top:-10px; 
+color: rgb(130, 168, 4) ;
+
+} 
+
+.intex-gir-header img:hover {
+transform: scale(1.3);
+z-index:2;
+}
+.intex-gir-header button{
+
+display: none;
+}
+     
+     /* Media query */
+
+     @media screen and (max-width:930px)
+        
+    {
+        .intex-gir-header{
+
+            display: block;
+        }
+
+
+    }
+    
+     
+        
+     
+     @media screen and (max-width:750px)
+     {
+        .secheader{
+            display:block;
+            justify-content: center;
+            align-items: center;
+            padding-left: 25%;
+           }
+           .secheader h1{
+            display:block;
+            padding-left: 2%;
+            margin-top: 20px;
+           }
+           .secheader h2{
+            padding-left:3%;
+            margin-bottom: 20px;
+           }
+           .formals{
+            display:block;
+            margin-left: 15%;
+            margin-bottom: 20px;
+           }
+           .div-1{
+            display: block;
+           }
+        .div-2{
+            display:block;
+        }
+        .formals img{
+            margin-top: 20px;
+        }
+    
+    
+           }  
+           
